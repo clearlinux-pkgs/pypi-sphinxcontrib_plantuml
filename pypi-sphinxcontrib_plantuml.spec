@@ -4,7 +4,7 @@
 #
 Name     : pypi-sphinxcontrib_plantuml
 Version  : 0.23
-Release  : 5
+Release  : 6
 URL      : https://files.pythonhosted.org/packages/db/32/e224f540b4a813d93718b633b7b6fa8298047c120122a75d6f98880bf7be/sphinxcontrib-plantuml-0.23.tar.gz
 Source0  : https://files.pythonhosted.org/packages/db/32/e224f540b4a813d93718b633b7b6fa8298047c120122a75d6f98880bf7be/sphinxcontrib-plantuml-0.23.tar.gz
 Summary  : Sphinx "plantuml" extension
@@ -63,7 +63,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1656370952
+export SOURCE_DATE_EPOCH=1656371387
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
