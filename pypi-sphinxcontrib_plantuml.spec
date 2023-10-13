@@ -5,7 +5,7 @@
 #
 Name     : pypi-sphinxcontrib_plantuml
 Version  : 0.26
-Release  : 17
+Release  : 18
 URL      : https://files.pythonhosted.org/packages/51/76/df35c9091e794ac3421070273115a858b35806afdffacb7014c6ec171ab4/sphinxcontrib-plantuml-0.26.tar.gz
 Source0  : https://files.pythonhosted.org/packages/51/76/df35c9091e794ac3421070273115a858b35806afdffacb7014c6ec171ab4/sphinxcontrib-plantuml-0.26.tar.gz
 Summary  : Sphinx "plantuml" extension
