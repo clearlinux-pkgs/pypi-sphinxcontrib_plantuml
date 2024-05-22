@@ -1,5 +1,5 @@
 PKG_NAME := pypi-sphinxcontrib_plantuml
-URL = https://files.pythonhosted.org/packages/87/bb/32aef09dae7f482bb1a32a47b0147fe4c85e3a359f2d6f1cb7220116a1dd/sphinxcontrib-plantuml-0.29.tar.gz
+URL = https://files.pythonhosted.org/packages/4d/e0/91ee50f1a020e2ed48d370a054f94b012ba0d757214a420ac43c9327f818/sphinxcontrib-plantuml-0.30.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
